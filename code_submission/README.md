@@ -1,2 +1,2 @@
-# Calorie-Counter-App
-This is a calorie counter app made with Django.
+# food-waste-management-App
+- Built with Django 
